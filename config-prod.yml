@@ -1,0 +1,2 @@
+config:
+  info: "master dev,springcloud-config/config-prod.yml version=1" 
